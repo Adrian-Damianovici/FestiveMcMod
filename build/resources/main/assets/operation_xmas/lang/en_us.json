@@ -1,3 +1,6 @@
 {
-  "item.operation_xmas.box_cutters": "Box Cutters"
+  "item.operation_xmas.box_cutters": "Box Cutters",
+  "item.operation_xmas.xmas_present": "XMAS Present",
+
+  "creativetab.main_tab": "Operation XMAS: Items"
 }
