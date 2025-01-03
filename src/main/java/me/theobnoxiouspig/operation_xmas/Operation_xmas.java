@@ -1,6 +1,7 @@
 package me.theobnoxiouspig.operation_xmas;
 
 import com.mojang.logging.LogUtils;
+import me.theobnoxiouspig.operation_xmas.block.ModBlocks;
 import me.theobnoxiouspig.operation_xmas.item.ModCreativeModeTabs;
 import me.theobnoxiouspig.operation_xmas.item.ModItems;
 import net.minecraft.client.Minecraft;
@@ -45,6 +46,7 @@ public class Operation_xmas {
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for mod loading
         modEventBus.addListener(this::commonSetup);

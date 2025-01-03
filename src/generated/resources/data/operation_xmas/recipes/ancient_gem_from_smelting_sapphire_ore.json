@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.25,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "operation_xmas:sapphire_ore"
+  },
+  "result": "operation_xmas:ancient_gem"
+}

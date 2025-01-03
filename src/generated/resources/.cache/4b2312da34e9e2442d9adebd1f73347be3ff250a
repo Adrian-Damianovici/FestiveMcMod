@@ -1,0 +1,5 @@
+// 1.20.1	2025-01-01T05:41:47.9322081	Tags for minecraft:block mod id operation_xmas
+762fa80879698cc4591b5d0ff30504b36f5d1d00 data/forge/tags/blocks/needs_netherite_tool.json
+8298b2431ed744408509cc26c02bb428738ee89a data/minecraft/tags/blocks/mineable/pickaxe.json
+c87fb8ceeb53da4923a5a3381e4a205de23e2615 data/minecraft/tags/blocks/needs_iron_tool.json
+1de1800c7112c1823214429203229bdd9a133177 data/operation_xmas/tags/blocks/metal_detector_valuables.json

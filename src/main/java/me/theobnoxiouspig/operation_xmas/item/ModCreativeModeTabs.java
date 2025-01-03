@@ -1,6 +1,7 @@
 package me.theobnoxiouspig.operation_xmas.item;
 
 import me.theobnoxiouspig.operation_xmas.Operation_xmas;
+import me.theobnoxiouspig.operation_xmas.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.*;
@@ -19,6 +20,17 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.XMAS_PRESENT.get());
                         pOutput.accept(ModItems.BOX_CUTTERS.get());
                         pOutput.accept(Items.SNOWBALL);
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
+                        pOutput.accept(ModItems.ANCIENT_GEM.get());
+                        pOutput.accept(ModItems.ICECREAM_SANDWICH.get());
+                        pOutput.accept(ModItems.SMALL_TIMBER.get());
+
+                        pOutput.accept(ModBlocks.TEST_BLOCK.get());
+                        pOutput.accept(ModBlocks.BRASS_BLOCK.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
+                        pOutput.accept(ModBlocks.SPEAKER_BLOCK.get());
+                        pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
+
                     })
                     .build());
 

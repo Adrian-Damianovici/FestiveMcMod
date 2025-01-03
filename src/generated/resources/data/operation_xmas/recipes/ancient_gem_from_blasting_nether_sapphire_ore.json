@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.25,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "operation_xmas:nether_sapphire_ore"
+  },
+  "result": "operation_xmas:ancient_gem"
+}

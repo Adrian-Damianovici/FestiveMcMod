@@ -1,6 +1,19 @@
 {
   "item.operation_xmas.box_cutters": "Box Cutters",
   "item.operation_xmas.xmas_present": "XMAS Present",
+  "item.operation_xmas.ancient_gem": "Ancient Gem",
+  "item.operation_xmas.metal_detector": "Metal Detector",
+  "item.operation_xmas.icecream_sandwich": "Ice Cream Sandwich",
+  "item.operation_xmas.small_timber": "Small Timber",
+
+  "block.operation_xmas.test_block": "TEST BLOCK",
+  "block.operation_xmas.brass_block": "Brass Block",
+  "block.operation_xmas.sapphire_ore": "Sapphire Ore",
+  "block.operation_xmas.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.operation_xmas.speaker": "Speaker",
+
+  "tooltip.operation_xmas.metal_detector.tooltip": "Used to Locate Iron ore.",
+  "tooltip.operation_xmas.speaker.tooltip": "Press block to play a note",
 
   "creativetab.main_tab": "Operation XMAS: Items"
 }

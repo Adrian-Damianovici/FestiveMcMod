@@ -1,0 +1,6 @@
+// 1.20.1	2025-01-01T05:32:48.4870952	Loot Tables
+f56b092c620acc83032441c42b4be3e023efc33b data/operation_xmas/loot_tables/blocks/brass_block.json
+db7c421ae1c5df76c560e2c130446c6e5ba5872f data/operation_xmas/loot_tables/blocks/nether_sapphire_ore.json
+908cbee83386ea4750d3bb6b4d7c26e89a388e87 data/operation_xmas/loot_tables/blocks/sapphire_ore.json
+1a2f5f8a6f9ed76788526eeead7ab35c9e58f694 data/operation_xmas/loot_tables/blocks/speaker.json
+645ac1d2fabf8a154c8763b9d78b2500350b61f7 data/operation_xmas/loot_tables/blocks/test_block.json

@@ -1,0 +1,117 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-01 06:11:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-01-01 06:11:05 +0100"
+    },
+    "done": false
+  },
+  "operation_xmas:recipes/misc/ancient_gem_from_blasting_nether_sapphire_ore": {
+    "criteria": {
+      "has_nether_sapphire_ore": "2025-01-01 06:11:19 +0100"
+    },
+    "done": true
+  },
+  "operation_xmas:recipes/misc/ancient_gem_from_smelting_nether_sapphire_ore": {
+    "criteria": {
+      "has_nether_sapphire_ore": "2025-01-01 06:11:19 +0100"
+    },
+    "done": true
+  },
+  "operation_xmas:recipes/misc/ancient_gem_from_smelting_sapphire_ore": {
+    "criteria": {
+      "has_sapphire_ore": "2025-01-01 06:11:19 +0100"
+    },
+    "done": true
+  },
+  "operation_xmas:recipes/misc/ancient_gem_from_blasting_sapphire_ore": {
+    "criteria": {
+      "has_sapphire_ore": "2025-01-01 06:11:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:26:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-03 17:26:09 +0100"
+    },
+    "done": true
+  },
+  "operation_xmas:recipes/misc/brass_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 17:26:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 17:26:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 17:26:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-03 17:26:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-03 17:26:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-03 17:26:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-01-03 17:27:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/xmas_present_from_campfire_cooking": {
+    "criteria": {
+      "has_netherite_block": "2025-01-03 17:27:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-03 17:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 17:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-03 17:27:58 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
